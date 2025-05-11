@@ -1,0 +1,6 @@
+[submodule "microservices/PostService"]
+	path = microservices/PostService
+	url = git@github.com:LucasLopes777/PostService.git
+[submodule "microservices/TextProcessorService"]
+	path = microservices/TextProcessorService
+	url = git@github.com:LucasLopes777/TextProcessorService.git
