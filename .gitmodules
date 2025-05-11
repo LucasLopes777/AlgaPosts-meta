@@ -4,3 +4,6 @@
 [submodule "microservices/TextProcessorService"]
 	path = microservices/TextProcessorService
 	url = git@github.com:LucasLopes777/TextProcessorService.git
+[submodule "microservices/algaPosts"]
+	path = microservices/algaPosts
+	url = git@github.com:LucasLopes777/AlgaPosts-meta.git
